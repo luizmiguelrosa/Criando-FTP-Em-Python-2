@@ -1,6 +1,6 @@
 <h1 align="center">Criando FTP Em Python 2</h1>
  
-Esta é a continuação do [Criando FTP em Python](https://github.com/Masso13/Criando-FTP-Em-Python), mas com explicações avançadas para complementar o seu FTP.
+Esta é a continuação do [Criando FTP em Python](https://github.com/luizmiguelrosa/Criando-FTP-Em-Python), mas com explicações avançadas para complementar o seu FTP.
 
 ## Ignorando o usuário "anonymous"
 ```python
